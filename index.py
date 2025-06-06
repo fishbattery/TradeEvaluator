@@ -3,6 +3,11 @@ from discord import app_commands
 from discord.ui import Select, View, Button, Modal, TextInput
 import json
 import re
+from dotenv import load_dotenv
+import os
+
+def configure():
+    load_dotenv()
 
 # Utility functions
 
@@ -313,5 +318,6 @@ class MyBot(discord.Client):
 
         await self.tree.sync()
 
+configure()
 bot = MyBot()
-bot.run("MTM4MDQwNDQ3OTAwMTYyODcwMg.GPSESw.YqoECI7kSaYZOp2YbzEQwECwzjNupu_V9lcbyw")  # Replace with your real bot token
+bot.run(os.getenv('api_key'))  # Replace with your real bot token
