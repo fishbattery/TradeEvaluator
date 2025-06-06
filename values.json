@@ -48,8 +48,8 @@
     "category": "pet"
   },
   "polar bear": {
-    "min": 3e11,
-    "max": 4e11,
+    "min": 1e11,
+    "max": 1.5e11,
     "emoji": "🧊🐻",
     "category": "pet"
   },
