@@ -1,0 +1,92 @@
+{
+  "master sprinkler": {
+    "min": 5e9,
+    "max": 5e9,
+    "emoji": "🚿",
+    "category": "gear"
+  },
+  "godly sprinkler": {
+    "min": 1e6,
+    "max": 1e6,
+    "emoji": "🚿",
+    "category": "gear"
+  },
+  "advanced sprinkler": {
+    "min": 5e4,
+    "max": 5e4,
+    "emoji": "🚿",
+    "category": "gear"
+  },
+  "basic sprinkler": {
+    "min": 2.5e4,
+    "max": 2.5e4,
+    "emoji": "🚿",
+    "category": "gear"
+  },
+  "honey sprinkler": {
+    "min": 2e11,
+    "max": 2e11,
+    "emoji": "🍯",
+    "category": "gear"
+  },
+  "star caller": {
+    "min": 5e7,
+    "max": 5e7,
+    "emoji": "🌠",
+    "category": "gear"
+  },
+  "lightning rod": {
+    "min": 1e7,
+    "max": 1e7,
+    "emoji": "⚡",
+    "category": "gear"
+  },
+  "huge pet (30kg+)": {
+    "min": 3.5e12,
+    "max": 6e12,
+    "emoji": "🐕",
+    "category": "pet"
+  },
+  "polar bear": {
+    "min": 3e11,
+    "max": 4e11,
+    "emoji": "🧊🐻",
+    "category": "pet"
+  },
+  "moon cat": {
+    "min": 1e11,
+    "max": 1.5e11,
+    "emoji": "🧊🐻",
+    "category": "pet"
+  },
+  "queen bee": {
+    "min": 3e12,
+    "max": 3e12,
+    "emoji": "👑🐝",
+    "category": "pet"
+  },
+  "raccoon": {
+    "min": 3e12,
+    "max": 5e12,
+    "emoji": "🦝",
+    "category": "pet"
+  },
+  "dragonfly": {
+    "min": 2e12,
+    "max": 3e12,
+    "emoji": "🐉",
+    "category": "pet"
+  },
+  "red fox": {
+    "min": 4.5e11,
+    "max": 9e11,
+    "emoji": "🦊",
+    "category": "pet"
+  },
+  "chicken jockey": {
+    "min": 1.8e11,
+    "max": 2e11,
+    "emoji": "🐔🦠",
+    "category": "pet"
+  }
+}
